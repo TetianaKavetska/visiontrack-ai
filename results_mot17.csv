@@ -1,0 +1,5 @@
+detector,tracker,fps,MOTA,IDF1,ID_switches,precision,recall
+yolov8n.pt,bytetrack.yaml,37.1,0.436,0.473,68,0.744,0.684
+yolov8n.pt,botsort.yaml,22.4,0.442,0.468,69,0.745,0.692
+yolov8s.pt,bytetrack.yaml,32.2,0.408,0.46,63,0.713,0.704
+yolov8s.pt,botsort.yaml,18.5,0.421,0.506,62,0.716,0.716

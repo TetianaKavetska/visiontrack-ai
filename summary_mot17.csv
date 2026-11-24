@@ -1,0 +1,7 @@
+combo,fps,MOTA,IDF1,ID_switches,precision,recall
+yolov8m + botsort,18.7,0.383,0.506,68.25,0.783,0.552
+yolov8m + bytetrack,24.975,0.372,0.499,77.0,0.78,0.54
+yolov8n + botsort,26.75,0.353,0.456,65.75,0.782,0.498
+yolov8n + bytetrack,47.6,0.343,0.442,75.25,0.782,0.486
+yolov8s + botsort,23.1,0.39,0.488,70.5,0.802,0.545
+yolov8s + bytetrack,41.7,0.377,0.471,85.0,0.798,0.532

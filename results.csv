@@ -1,0 +1,7 @@
+detector,tracker,frames,fps,unique_ids
+yolov8n.pt,bytetrack.yaml,313,14.8,119
+yolov8n.pt,botsort.yaml,313,10.0,113
+yolov8s.pt,bytetrack.yaml,313,12.3,136
+yolov8s.pt,botsort.yaml,313,9.9,131
+yolov8m.pt,bytetrack.yaml,313,11.7,112
+yolov8m.pt,botsort.yaml,313,8.0,110
